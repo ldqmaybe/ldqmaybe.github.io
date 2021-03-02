@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      重拾系列之——Android AMS
 subtitle:   翻一翻快遗忘了的AMS
