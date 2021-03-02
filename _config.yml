@@ -2,9 +2,9 @@
 title: My Blog
 SEOTitle: 定强的博客 | My Blog
 header-img: img/post-bg-desk.jpg
-email: ldqmaybe@gmail.com
+email: ldqmaybe@outlook.com
 description: "Every failure is leading towards success."
-keyword: "My Blog, 定强的博客, dingqiang.l, 林定强, iOS, Apple, iPhone"
+keyword: "My Blog, 定强的博客, dingqiang.l, 林定强, Android"
 url: "http://ldqmaybe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ldqmaybe/ldqmaybe.github.io.git" # you code repository
