@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-SEOTitle: 定强的博客 | My Blog
+title: DQ Blog
+SEOTitle: 定强的博客 | DQ Blog
 header-img: img/post-bg-desk.jpg
 email: ldqmaybe@outlook.com
 description: "Every failure is leading towards success."
-keyword: "My Blog, 定强的博客, dingqiang.l, 林定强, Android"
+keyword: "DQ Blog, 定强的博客, dingqiang.l, 林定强, Android"
 url: "http://ldqmaybe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ldqmaybe/ldqmaybe.github.io.git" # you code repository
@@ -17,9 +17,9 @@ sidebar-avatar: /img/about-DQ-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
+csdn_username:    ldq13026876956
 jianshu_username:    3d75c8d6d0fd
 github_username:    ldqmaybe
-csdn_username:    ldq13026876956
 
 
 
@@ -96,10 +96,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "My CSDN",
+        title: "DQ·CSDN",
         href: "https://blog.csdn.net/ldq13026876956"
     },{
-        title: "My 简书",
+        title: "DQ·简书",
         href: "https://www.jianshu.com/u/3d75c8d6d0fd"
     },
 ]
