@@ -1,6 +1,6 @@
 ﻿---
 layout:     post
-title:      2020-01-21-Android反编译App的一次实践.md
+title:      2020-01-21-Android反编译App的一次实践
 subtitle:   
 date:       2020-01-21
 author:     dingqiang.l
