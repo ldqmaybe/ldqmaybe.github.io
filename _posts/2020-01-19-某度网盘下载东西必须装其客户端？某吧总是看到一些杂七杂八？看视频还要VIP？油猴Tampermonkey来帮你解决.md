@@ -2,9 +2,9 @@
 layout:     post
 title:      某度网盘下载东西必须装其客户端？某吧总是看到一些杂七杂八？看视频还要VIP？油猴Tampermonkey来帮你解决
 subtitle:   
-date:       2020-01-19
+date:       2019-12-19
 author:     dingqiang.l
-header-img: 
+header-img: img/post-2019-12-09.jpg
 catalog: true
 tags:
     - 工具
